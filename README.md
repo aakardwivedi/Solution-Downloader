@@ -30,7 +30,7 @@ To run the scripts clone the repository
 * if all solutions are not downloaded run the command `python codechef.py` again.
 * In some systems you might need to add `sudo -H` before pip commands.
 
-_Will add scrips for other platforms soon._
+_Will add scripts for other platforms soon._
 
 [1]: https://github.com/jmcarp/robobrowser
 [2]: https://docs.python.org/3/library/pathlib.html
