@@ -5,7 +5,8 @@ Python scripts to download solutions of "SPOJ" and "CODECHEF"
 
 Requirements for Linux Systems
 -------------------------------
-* [Python 2.7+][3]
+* You will need [Python 2](https://www.python.org/download/). 
+* [pip](http://pip.readthedocs.org/en/latest/installing.html) is recommended for installing dependencies.
 * [RoboBrowser][1]
 	- `pip install robobrowser`
 * [pathlib][2]
@@ -29,6 +30,7 @@ To run the scripts clone the repository
 * Codechef to decrease load on its servers restricts the number of requests,
 * if all solutions are not downloaded run the command `python codechef.py` again.
 * In some systems you might need to add `sudo -H` before pip commands.
+
 
 _Will add scripts for other platforms soon._
 
